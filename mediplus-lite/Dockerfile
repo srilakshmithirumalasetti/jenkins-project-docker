@@ -1,3 +1,3 @@
 FROM nginx:alpine
-COPY . /usr/share/nginx/html
+COPY mediplus-lite/usr/share/nginx/html
 EXPOSE 80
